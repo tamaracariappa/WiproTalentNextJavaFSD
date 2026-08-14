@@ -14,8 +14,15 @@
 - **prog5.java**: Write a program to print numbers backwards from 100 to 1 by skipping 2 numbers i.e. 100 97 94 91 88 85 82 79 . . . 22 19 16 13 10 7 4 1
 
 ### Prereq3: Pattern Printing
-- **Problem1.java**: Print the below shape on a console window [10 rows right-angled left justified numbers]
-- **Problem2.java**: Print the below shape on a console window [10 rows right-angled right-justified stars]
-- **Problem3.java**: Print the below shape on a console window [10 rows triangle of incr-decr numbers]
-- **Practice1.java**: Print the below shape on a console window [10 rows triangle incr-nums decr-alphabet]
-- **Practice2.java**: Print the below shape on a console window [10 rows rhombus inc-decr numbers]
+- **Problem1.java**: Print the shape on a console window [10 rows right-angled left justified numbers]
+- **Problem2.java**: Print the shape on a console window [10 rows right-angled right-justified stars]
+- **Problem3.java**: Print the shape on a console window [10 rows triangle of incr-decr numbers]
+- **Practice1.java**: Print the shape on a console window [10 rows triangle incr-nums decr-alphabet]
+- **Practice2.java**: Print the shape on a console window [10 rows rhombus inc-decr numbers]
+
+## Java Fundamentals
+
+###Language Basics
+- **Assignment1.java**: Write a Program that accepts two Strings as command line arguments and generate the output in the format string1 Technologies string2
+- **Assignment2.java**: Write a Program to accept a String as a command line argument and print a Welcome message.
+- **Assignment3.java**: Write a Program to accept two integers as command line arguments and print the sum of the two numbers.
