@@ -22,7 +22,26 @@
 
 ## Java Fundamentals
 
-###Language Basics
+### Language Basics
 - **Assignment1.java**: Write a Program that accepts two Strings as command line arguments and generate the output in the format string1 Technologies string2
 - **Assignment2.java**: Write a Program to accept a String as a command line argument and print a Welcome message.
 - **Assignment3.java**: Write a Program to accept two integers as command line arguments and print the sum of the two numbers.
+
+### Flow Control Statements
+- **Assignment1.java**: Check if a given integer is Positive, Negative, or Zero, and if two numbers have the same last digit.
+- **Assignment2.java**: Check if a given integer number is odd or even.
+- **Assignment3.java**: Check if the program has received command line arguments or not.
+- **Assignment4.java**: Initialize two character variables and display them in alphabetical order.
+- **Assignment5.java**: Print 'Alphabet', 'Digit', or 'Special Character' based on an initialized character variable.
+- **Assignment6.java**: Accept gender and age from command line arguments and print the percentage of interest.
+- **Assignment7.java**: Convert a character from lowercase to uppercase or vice versa.
+- **Assignment8.java**: Receive a color code and print the corresponding color name.
+- **Assignment9.java**: Receive a number and print the corresponding month name.
+- **Assignment10.java**: Print numbers from 1 to 10 in a single row with one tab space.
+- **Assignment11.java**: Print even numbers between 23 and 57.
+- **Assignment12.java**: Check if a given number is prime or not.
+- **Assignment13.java**: Print prime numbers between 10 and 99.
+- **Assignment14.java**: Print the sum of all the digits of a given number.
+- **Assignment15.java**: Print * in Floyds format.
+- **Assignment16.java**: Reverse a given number and print.
+- **Assignment17.java**: Find if the given number is palindrome or not.
