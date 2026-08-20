@@ -45,3 +45,19 @@
 - **Assignment15.java**: Print * in Floyds format.
 - **Assignment16.java**: Reverse a given number and print.
 - **Assignment17.java**: Find if the given number is palindrome or not.
+
+### Arrays
+- **Assignment1.java**: Initialize an integer array and print the sum and average of the array.
+- **Assignment2.java**: Initialize an integer array and find the maximum and minimum value of the array.
+- **Assignment3.java**: Initialize an integer array with values and check if a given number is present.
+- **Assignment4.java**: Initialize an integer array with ascii values and print the corresponding character values.
+- **Assignment5.java**: Find the largest 2 numbers and the smallest 2 numbers in the given array.
+- **Assignment6.java**: Initialize an array and print them in a sorted order.
+- **Assignment7.java**: Remove the duplicate elements in an array and print the same.
+- **Assignment8.java**: Print the sum of elements ignoring numbers between 6 and 7 in succeeding orders.
+- **Assignment9.java**: Remove all 10's and shift remaining elements left, filling empty spaces at the end with 0.
+- **Assignment10.java**: Rearrange an array so that all even numbers come before all odd numbers.
+- **Assignment11.java**: Check if every element in an int array is 1 or 4.
+- **Assignment12.java**: Given 2 int arrays, each length 3, form a new array of length 2 with their middle elements.
+- **Assignment13.java**: Reverse the elements of a given 2*2 array passed as command line arguments.
+- **Assignment14.java**: Find the biggest number in a 3*3 array given 9 integer command line arguments.
