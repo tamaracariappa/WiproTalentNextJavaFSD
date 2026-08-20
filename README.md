@@ -61,3 +61,6 @@
 - **Assignment12.java**: Given 2 int arrays, each length 3, form a new array of length 2 with their middle elements.
 - **Assignment13.java**: Reverse the elements of a given 2*2 array passed as command line arguments.
 - **Assignment14.java**: Find the biggest number in a 3*3 array given 9 integer command line arguments.
+
+### Mini Project
+- **MiniProject.java**: A small java application that accepts an employee id from the command prompt, calculates the salary, and displays the employee details.
