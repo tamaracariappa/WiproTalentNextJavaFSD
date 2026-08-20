@@ -7,7 +7,7 @@ I/P:{12,34,12,45,67,89}
 O/P:{12,34,45,67,89}
 */
 
- public class Assignment7{
+public class Assignment7{
     public static void main(String args[]){
         int[] a = new int[] {12,34,12,45,67,89};
         
@@ -25,4 +25,4 @@ O/P:{12,34,45,67,89}
         
         System.out.print("}");
     }
- }
+}
